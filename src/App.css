@@ -1,0 +1,16 @@
+.mi-card {
+    width: 20rem;
+    margin-top: 3rem;
+    margin-left: 50px;
+    min-height: 200px;
+    background-color: #B7C0F9;
+  }
+
+  .text-fecha {
+    color: #756d6d;
+    text-align: center;
+    display: block;  
+    width: 100%;  
+  }
+  
+  
