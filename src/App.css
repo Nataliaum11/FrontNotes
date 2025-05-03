@@ -12,5 +12,22 @@
     display: block;  
     width: 100%;  
   }
-  
-  
+
+  .text-titulos {
+    color: black;
+    text-align: center;
+    width: 100%;
+  }
+
+  .custom-border {
+    border: 1.5px solid black !important;
+    border-radius: 6px !important;
+  }
+
+  .mi-cardRegister {
+    width: 20rem;
+    margin-top: 3rem;
+    height: 30rem;
+    background-color: #B7C0F9;
+  }
+
